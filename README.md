@@ -1,9 +1,9 @@
 # Hackathon Resources
 Collection of links containing coding knowledge for hackathon preparations. 
 <p>
-<h3>Front-end:</h3>
+<h3>Frontend:</h3>
 <ul>
-<li><a href="https://www.freecodecamp.com/map">Free Code Camp</a> (has both front-end & back-end tutorials)</li>
+<li><a href="https://www.freecodecamp.com/map">Free Code Camp</a> (has both frontend & backend tutorials)</li>
 <li><a href="http://jgthms.com/web-design-in-4-minutes">Web Design in 4 Minutes</a></li>
 <li><a href="http://learn.shayhowe.com/advanced-html-css">Advanced html/CSS</a></li>
 <li><a href="https://dash.generalassemb.ly">Beginner-friendly projects</a> from dash.ga</li>
