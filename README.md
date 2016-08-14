@@ -38,4 +38,5 @@ Collection of links containing coding knowledge for hackathon preparations.
 <ul>
 <li><a href="http://www.ureddit.com/category/23442/computer-science">UReddit CS lessons</a></li>
 <li><a href="https://manual.cs50.net/seminars/">Harvard CS50 seminars</a></li>
+<li><a href="https://www.arduino.cc/en/Main/ArduinoStarterKit">Arduino starter</a></li>
 </ul>
