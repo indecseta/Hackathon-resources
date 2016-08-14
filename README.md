@@ -20,12 +20,6 @@ Collection of links containing useful coding knowledge for attending hackathons.
 </ul>
 </p>
 
-<h3>General:</h3>
-<ul>
-<li><a href="http://www.ureddit.com/category/23442/computer-science">UReddit CS lessons</a></li>
-<li><a href="https://manual.cs50.net/seminars/">Harvard CS50 seminars</a></li>
-</ul>
-
 <h3>Github:</h3>
 <ul>
 <li><a href="http://learngitbranching.js.org/">Learn Git Branching </a></li>
@@ -35,6 +29,13 @@ Collection of links containing useful coding knowledge for attending hackathons.
 </ul>
 
 <h3>Other lists </h3>
-<li><a href="https://github.com/Ladies-Storm-Hackathons/Resources">
-<li><a href="https://github.com/IlliniHackers/start-here/wiki/Backend-Development">IlliniHackers: 
+<ul>
+<li><a href="https://github.com/Ladies-Storm-Hackathons/Resources">Hackahon resources compiled by Ladies Storm Hackathons</a></li>
+<li><a href="https://github.com/IlliniHackers/start-here">IlliniHackers Hackathon Starter</a></li>
+</ul>
 
+<h3>General:</h3>
+<ul>
+<li><a href="http://www.ureddit.com/category/23442/computer-science">UReddit CS lessons</a></li>
+<li><a href="https://manual.cs50.net/seminars/">Harvard CS50 seminars</a></li>
+</ul>
