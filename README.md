@@ -32,7 +32,7 @@ Collection of links containing coding knowledge for hackathon preparations.
 <ul>
 <li><a href="https://github.com/Ladies-Storm-Hackathons/Resources">Hackahon resources</a> compiled by Ladies Storm Hackathons</li>
 <li><a href="https://github.com/IlliniHackers/start-here">IlliniHackers Hackathon starter</a></li>
-<li>Another great<a href="https://github.com/sahat/hackathon-starter"> Hackathon starter guide</a> by  <a href="https://github.com/sahat"> sahat</a>
+<li>Another great<a href="https://github.com/sahat/hackathon-starter"> Hackathon starter guide</a></li>
 </ul>
 
 <h3>General:</h3>
