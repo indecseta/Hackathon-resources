@@ -20,12 +20,12 @@ Collection of links containing coding knowledge for hackathon preparations.
 </ul>
 </p>
 
-<h3>Github:</h3>
+<h3>GitHub:</h3>
 <ul>
 <li><a href="http://learngitbranching.js.org/">Learn Git Branching </a></li>
 <li><a href="https://rogerdudler.github.io/git-guide/">git-the simple guide</a></li>
 <li><a href="https://try.github.io/levels/1/challenges/1">trygit</a> by Github </li>
-<li><a href="https://www.youtube.com/watch?v=E8TXME3bzNs">Github for beginners</a> video</li>
+<li><a href="https://www.youtube.com/watch?v=E8TXME3bzNs">GitHub for beginners</a> video</li>
 </ul>
 
 <h3>Other lists </h3>
