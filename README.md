@@ -12,7 +12,7 @@ Collection of links containing coding knowledge for hackathon preparations.
 <p>
 <h3>Backend:</h3>
 <ul>
-<li>A<a href="https://github.com/IlliniHackers/start-here/wiki/Backend-Development"> list</a> from IlliniHackers</li>
+<li>A<a href="https://github.com/IlliniHackers/start-here/wiki/Backend-Development"> list of backend dev resources</a> from IlliniHackers</li>
 <li><a href="https://www.freecodecamp.com/map">Free Code Camp</a></li>
 <li><a href="https://sendgrid.com/blog/mobile-app-hackathon-quickstart-guide/">Mobile App hackathon quick guide </a></li>  
 <li><a href="https://sendgrid.com/blog/hackathon-your-first-iphone-app/">Guide to building first iPhone APP </a></li>  
