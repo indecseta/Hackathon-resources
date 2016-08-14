@@ -1,5 +1,5 @@
 # hackathon-resources
-Collection of links containing useful coding knowledge for attending hackathons. 
+Collection of links of useful coding knowledge for attending hackathons. 
 <p>
 <h3>Front-end:</h3>
 <ul>
