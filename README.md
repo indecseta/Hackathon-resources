@@ -27,7 +27,7 @@ Collection of links containing coding knowledge for hackathon preparations.
 
 ## General
 - [Harvard CS50 seminars](https://manual.cs50.net/seminars/)
--[UReddit CS tuturials](http://www.ureddit.com/category/23442/computer-science)
+- [UReddit CS tuturials](http://www.ureddit.com/category/23442/computer-science)
 - [Arduino starter](https://www.arduino.cc/en/Main/ArduinoStarterKit)
 
 <!--
