@@ -23,7 +23,7 @@ Collection of links containg beginner-friendly CS tutorials for hackathon prepar
 ## Other lists
 - [Hackahon resources](https://github.com/Ladies-Storm-Hackathons/Resources) compiled by Ladies Storm Hackathons
 - [IlliniHackers Hackathon starter](https://github.com/IlliniHackers/start-here)
-- Another great [Hackathon starter guide](https://github.com/sahat/hackathon-starter)
+- [Hackathon starter](https://github.com/sahat/hackathon-starter) provides some useful tools
 
 ## General
 - [Harvard CS50 seminars](https://manual.cs50.net/seminars/)
