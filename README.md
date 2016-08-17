@@ -1,5 +1,5 @@
 # Hackathon Resources
-Collection of links containing coding knowledge for hackathon preparations. 
+Collection of links containg beginner-friendly CS tutorials for hackathon preparations. 
 
 ## Frontend
 - [Free Code Camp](https://www.freecodecamp.com/map)
@@ -29,6 +29,7 @@ Collection of links containing coding knowledge for hackathon preparations.
 - [Harvard CS50 seminars](https://manual.cs50.net/seminars/)
 - [UReddit CS tuturials](http://www.ureddit.com/category/23442/computer-science)
 - [Arduino starter](https://www.arduino.cc/en/Main/ArduinoStarterKit)
+- [APP Inventor 2](http://appinventor.mit.edu/explore/get-started.html) from MIT
 
 <!--
 <body>
