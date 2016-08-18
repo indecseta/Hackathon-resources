@@ -4,14 +4,23 @@ Collection of links containg beginner-friendly CS tutorials for hackathon prepar
 ## Frontend
 - [Free Code Camp](https://www.freecodecamp.com/map)
 - [Web Design in 4 Minutes](http://jgthms.com/web-design-in-4-minutes)
-- [Advanced html/CSS lessons](http://learn.shayhowe.com/advanced-html-css)
 - [Beginner-friendly projects](https://dash.generalassemb.ly) from General Assembly
+- [Intro to HTML and CSS (Udacity)](https://www.udacity.com/course/viewer#!/c-ud304/l-2810388540/m-2872198546) 
+- [JavaScript Basics (Udacity)](https://www.udacity.com/course/javascript-basics--ud804)   
+  Learn JavaScript syntax and coding conventions that web developers use to create interactive and dynamic websites while you create an online résumé for your portfolio
+* [Web Development (Udacity)](https://www.udacity.com/course/viewer#!/c-cs253)  
+  Learn how to convert digital design mockups into static web pages and how to build a responsive portfolio site to showcase your work.
+- [Advanced HTML/CSS lessons](http://learn.shayhowe.com/advanced-html-css)
+
+
 
 ## Backend
 - A [list of backend dev resources](https://github.com/IlliniHackers/start-here/wiki/Backend-Development) from IlliniHackers.
 - [Free Code Camp](https://www.freecodecamp.com/map)
 - [Mobile App hackathon quick guide](https://sendgrid.com/blog/mobile-app-hackathon-quickstart-guide/)
 - [Guide to building first iPhone APP](https://sendgrid.com/blog/hackathon-your-first-iphone-app/)
+- [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837)  
+  Learn the basics of Android and Java programming.
 - [Hackathon toolbox](https://sendgrid.com/blog/whats-hackathon-toolbox/)
 
 ## Version Control (Github)
