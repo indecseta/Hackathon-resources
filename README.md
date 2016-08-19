@@ -1,5 +1,5 @@
 # Hackathon Resources
-Collection of links containg beginner-friendly CS tutorials for hackathon preparations. 
+Collection of selected links containg beginner-friendly CS tutorials for hackathon preparations. 
 
 ## Frontend
 - [Free Code Camp](https://www.freecodecamp.com/map)
