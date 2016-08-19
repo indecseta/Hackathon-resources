@@ -27,7 +27,7 @@ Collection of links containg beginner-friendly CS tutorials for hackathon prepar
 - [Learn Git Branching](http://learngitbranching.js.org/)
 - [git-the simple guide](https://rogerdudler.github.io/git-guide/)
 - [trygit](https://try.github.io/levels/1/challenges/1) by GitHub
-- [GitHub for beginners (a video)](https://www.youtube.com/watch?v=E8TXME3bzNs)
+- [Git setup for beginners (a video)](https://www.youtube.com/watch?v=tRTckrrCME4)
 
 ## Other lists
 - [Hackahon resources](https://github.com/Ladies-Storm-Hackathons/Resources) compiled by Ladies Storm Hackathons
