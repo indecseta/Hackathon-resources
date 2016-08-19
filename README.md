@@ -23,7 +23,7 @@ Collection of links containg beginner-friendly CS tutorials for hackathon prepar
   Learn the basics of Android and Java programming.
 - [Hackathon toolbox](https://sendgrid.com/blog/whats-hackathon-toolbox/)
 
-## Version Control (Github)
+## Version Control (Git)
 - [Learn Git Branching](http://learngitbranching.js.org/)
 - [git-the simple guide](https://rogerdudler.github.io/git-guide/)
 - [trygit](https://try.github.io/levels/1/challenges/1) by GitHub
