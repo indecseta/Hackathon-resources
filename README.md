@@ -4,14 +4,14 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
 ## Frontend
 - [Free Code Camp](https://www.freecodecamp.com/map)
 - [Web Design in 4 Minutes](http://jgthms.com/web-design-in-4-minutes)
-- [Beginner-friendly projects](https://dash.generalassemb.ly) from General Assembly
+- [Beginner-friendly projects](https://dash.generalassemb.ly) from General Assembly Dash
 - [Intro to HTML and CSS (Udacity)](https://www.udacity.com/course/viewer#!/c-ud304/l-2810388540/m-2872198546) 
 - [JavaScript Basics (Udacity)](https://www.udacity.com/course/javascript-basics--ud804)   
   Learn JavaScript syntax and coding conventions that web developers use to create interactive and dynamic websites while you create an online résumé for your portfolio
 * [Web Development (Udacity)](https://www.udacity.com/course/viewer#!/c-cs253)  
   Learn how to convert digital design mockups into static web pages and how to build a responsive portfolio site to showcase your work.
 - [Advanced HTML/CSS lessons](http://learn.shayhowe.com/advanced-html-css)
-
+- [Learn/practice CSS selectors](http://flukeout.github.io/) with a little web game
 
 
 ## Backend
