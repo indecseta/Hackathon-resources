@@ -11,7 +11,7 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
 * [Web Development (Udacity)](https://www.udacity.com/course/viewer#!/c-cs253)  
   Learn how to convert digital design mockups into static web pages and how to build a responsive portfolio site to showcase your work.
 - [Advanced HTML/CSS lessons](http://learn.shayhowe.com/advanced-html-css)
-- [Learn/practice CSS selectors](http://flukeout.github.io/) with a little web game
+- [Practice CSS selectors](http://flukeout.github.io/) with a little web game
 
 
 ## Backend
@@ -31,7 +31,7 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
 
 ## Other lists
 - [Hackahon resources](https://github.com/Ladies-Storm-Hackathons/Resources) compiled by Ladies Storm Hackathons
-- [IlliniHackers Hackathon starter](https://github.com/IlliniHackers/start-here)
+- [IlliniHackers Hackathon starter](https://github.com/IlliniHackers/start-here/wiki)
 - [Hackathon starter](https://github.com/sahat/hackathon-starter) provides some useful tools
 
 ## General
