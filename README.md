@@ -40,6 +40,7 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
 - [Arduino starter](https://www.arduino.cc/en/Main/ArduinoStarterKit)
 - [APP Inventor 2](http://appinventor.mit.edu/explore/get-started.html) from MIT
 - [Android Studio starter](https://www.raywenderlich.com/120177/beginning-android-development-tutorial-installing-android-studio)
+- [Cordova APP Development platform](https://cordova.apache.org/)
 
 <!--
 <body>
