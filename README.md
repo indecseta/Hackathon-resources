@@ -26,7 +26,7 @@ Collection of selected links containg beginner-friendly tutorials for hackathon 
 - [jQuary by KhanAcademy] (https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 
 ### APIs
-- [Learn APIs](https://www.codecademy.com/apis) from Codeacademy
+- [Learn APIs](https://www.codecademy.com/apis) on Codeacademy
 
 
 
