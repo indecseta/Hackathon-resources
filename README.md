@@ -14,16 +14,18 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
 - [Practice CSS selectors](http://flukeout.github.io/) with a little web game
 - [Advanced HTML/CSS lessons](http://learn.shayhowe.com/advanced-html-css)
 - [Short Frontend lessons](https://www.girldevelopit.com/materials) from Girls Develope It
-- [XML by W3schools](http://www.w3schools.com/xml/xml_whatis.asp)  
+- [XML by W3schools](http://www.w3schools.com/xml/xml_whatis.asp) 
 
-### JS libaries
--
-
+### JS libaries 
+- Learn node.js on [Nodeschool](http://nodeschool.io/index.html)
+- [Angular.js] (https://www.girldevelopit.com/materials/intro-to-angular)
+- [Introduction to JSON](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/) (a blogpost) 
+- [jQuary by KhanAcademy] (https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 
 ### APIs
 - [Learn APIs](https://www.codecademy.com/apis) from Codeacademy
-- Learn node.js on [Nodeschool](http://nodeschool.io/index.html)
-- [Introduction to JSON](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/) (a blogpost) 
+
+
 
 ## Backend
 - A [list of backend dev resources](https://github.com/IlliniHackers/start-here/wiki/Backend-Development) from IlliniHackers.
