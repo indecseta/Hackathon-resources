@@ -14,6 +14,7 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
 - [Advanced HTML/CSS lessons](http://learn.shayhowe.com/advanced-html-css)
 - [Short Frontend lessons](https://www.girldevelopit.com/materials) from Girls Develope It
 - Learn node.js from [Nodeschool](http://nodeschool.io/index.html)
+- [Introduction to JSON](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/) (a blogpost) 
 
 ## Backend
 - A [list of backend dev resources](https://github.com/IlliniHackers/start-here/wiki/Backend-Development) from IlliniHackers.
