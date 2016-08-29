@@ -28,6 +28,7 @@ Collection of selected links containg beginner-friendly tutorials for hackathon 
 ### APIs
 - [Learn APIs](https://www.codecademy.com/apis) on Codeacademy
 
+### Python, PHP, Ruby on Rails
 
 
 ## Backend
