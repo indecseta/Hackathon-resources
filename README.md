@@ -12,7 +12,7 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
   Learn how to convert digital design mockups into static web pages and how to build a responsive portfolio site to showcase your work.
 - [Practice CSS selectors](http://flukeout.github.io/) with a little web game
 - [Advanced HTML/CSS lessons](http://learn.shayhowe.com/advanced-html-css)
-- [Short Frontend lessons](https://www.girldevelopit.com/materials) from GirlsDevelopeIt
+- [Short Frontend lessons](https://www.girldevelopit.com/materials) from Girls Develope It
 
 ## Backend
 - A [list of backend dev resources](https://github.com/IlliniHackers/start-here/wiki/Backend-Development) from IlliniHackers.
@@ -22,6 +22,10 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
 - [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837)  
   Learn the basics of Android and Java programming.
 - [Hackathon toolbox](https://sendgrid.com/blog/whats-hackathon-toolbox/)
+- [APP Inventor 2](http://appinventor.mit.edu/explore/get-started.html) from MIT
+- [Android Studio starter](https://www.raywenderlich.com/120177/beginning-android-development-tutorial-installing-android-studio)
+- [Cordova APP Development platform](https://cordova.apache.org/)
+
 
 ## Version Control (Git)
 - [Learn Git Branching](http://learngitbranching.js.org/)
@@ -33,16 +37,14 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
 - [Hackahon resources](https://github.com/Ladies-Storm-Hackathons/Resources) compiled by Ladies Storm Hackathons
 - [IlliniHackers Hackathon starter](https://github.com/IlliniHackers/start-here/wiki)
 - [Hackathon starter](https://github.com/sahat/hackathon-starter) provides some useful tools
-- [Learn to Code with Us](http://www.learntocodewithus.com/resources/)  
-  Comprehensive listing of online learning resources for different programing concepts & languages. 
+
 
 ## General
 - [Harvard CS50 seminars](https://manual.cs50.net/seminars/)
 - [UReddit CS tuturials](http://www.ureddit.com/category/23442/computer-science)
 - [Arduino starter](https://www.arduino.cc/en/Main/ArduinoStarterKit)
-- [APP Inventor 2](http://appinventor.mit.edu/explore/get-started.html) from MIT
-- [Android Studio starter](https://www.raywenderlich.com/120177/beginning-android-development-tutorial-installing-android-studio)
-- [Cordova APP Development platform](https://cordova.apache.org/)
+- [Learn to Code with Us](http://www.learntocodewithus.com/resources/)  
+  Comprehensive listing of online learning resources for different programing concepts & languages. 
 
 <!--
 <body>
