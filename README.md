@@ -12,7 +12,10 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
   Learn how to convert digital design mockups into static web pages and how to build a responsive portfolio site to showcase your work.
 - [Practice CSS selectors](http://flukeout.github.io/) with a little web game
 - [Advanced HTML/CSS lessons](http://learn.shayhowe.com/advanced-html-css)
-- [Short Frontend lessons](https://www.girldevelopit.com/materials) from Girls Develope It
+- [Short Frontend lessons](https://www.girldevelopit.com/materials) from Girls Develope It  
+
+### API
+- [Learn various APIs](https://www.codecademy.com/apis) from Codeacademy
 - Learn node.js from [Nodeschool](http://nodeschool.io/index.html)
 - [Introduction to JSON](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/) (a blogpost) 
 
