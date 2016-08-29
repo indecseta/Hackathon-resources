@@ -1,7 +1,8 @@
 # Hackathon Resources
-Collection of selected links containg beginner-friendly CS tutorials for hackathon preparations. 
+Collection of selected links containg beginner-friendly CS tutorials for hackathon preparations. (Feel free to recommend other good learning resources.)
 
 ## Frontend
+
 ### HTML/CSS, Javascript
 - [Free Code Camp](https://www.freecodecamp.com/map)
 - [Web Design in 4 Minutes](http://jgthms.com/web-design-in-4-minutes)
