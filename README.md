@@ -15,8 +15,8 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
 - [Short Frontend lessons](https://www.girldevelopit.com/materials) from Girls Develope It  
 
 ### API
-- [Learn various APIs](https://www.codecademy.com/apis) from Codeacademy
-- Learn node.js from [Nodeschool](http://nodeschool.io/index.html)
+- [Learn APIs](https://www.codecademy.com/apis) from Codeacademy
+- Learn node.js on[Nodeschool](http://nodeschool.io/index.html)
 - [Introduction to JSON](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/) (a blogpost) 
 
 ## Backend
