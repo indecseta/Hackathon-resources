@@ -10,9 +10,9 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
   Learn JavaScript syntax and coding conventions that web developers use to create interactive and dynamic websites while you create an online résumé for your portfolio
 * [Web Development (Udacity)](https://www.udacity.com/course/viewer#!/c-cs253)  
   Learn how to convert digital design mockups into static web pages and how to build a responsive portfolio site to showcase your work.
-- [Advanced HTML/CSS lessons](http://learn.shayhowe.com/advanced-html-css)
 - [Practice CSS selectors](http://flukeout.github.io/) with a little web game
-
+- [Advanced HTML/CSS lessons](http://learn.shayhowe.com/advanced-html-css)
+- [Short Frontend lessons](https://www.girldevelopit.com/materials) from GirlsDevelopeIt
 
 ## Backend
 - A [list of backend dev resources](https://github.com/IlliniHackers/start-here/wiki/Backend-Development) from IlliniHackers.
@@ -33,6 +33,8 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
 - [Hackahon resources](https://github.com/Ladies-Storm-Hackathons/Resources) compiled by Ladies Storm Hackathons
 - [IlliniHackers Hackathon starter](https://github.com/IlliniHackers/start-here/wiki)
 - [Hackathon starter](https://github.com/sahat/hackathon-starter) provides some useful tools
+- [Learn to Code with Us](http://www.learntocodewithus.com/resources/)  
+  Comprehensive listing of online learning resources for different programing concepts & languages. 
 
 ## General
 - [Harvard CS50 seminars](https://manual.cs50.net/seminars/)
