@@ -1,5 +1,7 @@
 # Hackathon Resources
-Collection of selected links containg beginner-friendly CS tutorials for hackathon preparations. (Feel free to recommend other good learning resources.)
+Collection of selected links containg beginner-friendly tutorials for hackathon preparations. (Feel free to recommend other good learning resources.)
+
+<i>n.b. These are mostly free and quick online tutorials, intended for making small projects.  Full-length college courses and physical books will serve better for in-depth studies.</i>
 
 ## Frontend
 
@@ -48,12 +50,12 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
 - [Git setup for beginners (a video)](https://www.youtube.com/watch?v=tRTckrrCME4)
 
 ## Other lists
-- [Hackahon resources](https://github.com/Ladies-Storm-Hackathons/Resources) compiled by Ladies Storm Hackathons
+- [Hackahon resources](https://github.com/Ladies-Storm-Hackathons/Resources)from Ladies Storm Hackathons
 - [IlliniHackers Hackathon starter](https://github.com/IlliniHackers/start-here/wiki)
 - [Hackathon starter](https://github.com/sahat/hackathon-starter) provides some useful tools
 
 
-## General
+## General Computer Coding 
 - [Harvard CS50 seminars](https://manual.cs50.net/seminars/)
 - [UReddit CS tuturials](http://www.ureddit.com/category/23442/computer-science)
 - [Arduino starter](https://www.arduino.cc/en/Main/ArduinoStarterKit)
