@@ -13,6 +13,7 @@ Collection of selected links containg beginner-friendly CS tutorials for hackath
 - [Practice CSS selectors](http://flukeout.github.io/) with a little web game
 - [Advanced HTML/CSS lessons](http://learn.shayhowe.com/advanced-html-css)
 - [Short Frontend lessons](https://www.girldevelopit.com/materials) from Girls Develope It
+- Learn node.js from [Nodeschool](http://nodeschool.io/index.html)
 
 ## Backend
 - A [list of backend dev resources](https://github.com/IlliniHackers/start-here/wiki/Backend-Development) from IlliniHackers.
