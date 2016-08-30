@@ -29,6 +29,7 @@ Collection of selected links containg beginner-friendly tutorials for hackathon 
 - [Learn APIs](https://www.codecademy.com/apis) on Codeacademy
 
 ### Python, PHP, Ruby on Rails
+nothing yet
 
 
 ## Backend
@@ -56,12 +57,15 @@ Collection of selected links containg beginner-friendly tutorials for hackathon 
 - [Hackathon starter](https://github.com/sahat/hackathon-starter) provides some useful tools
 
 
-## General Computer Coding 
+## General 
 - [Harvard CS50 seminars](https://manual.cs50.net/seminars/)
 - [UReddit CS tuturials](http://www.ureddit.com/category/23442/computer-science)
 - [Arduino starter](https://www.arduino.cc/en/Main/ArduinoStarterKit)
 - [Learn to Code with Us](http://www.learntocodewithus.com/resources/)  
-  Comprehensive listing of online learning resources for different programing concepts & languages. 
+  Comprehensive listing of online learning resources for different programing concepts & languages.
+- [Tools for prototyping and designing APPs](https://medium.com/sketch-app-sources/five-app-prototyping-tools-compared-form-framer-origami-pixate-proto-io-c2acc9062c61#.zahstidjo)
+ 
+
 
 <!--
 <body>
