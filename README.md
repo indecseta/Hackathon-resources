@@ -1,7 +1,7 @@
 # Hackathon Resources
 Collection of selected links containg beginner-friendly tutorials for hackathon preparations. (Feel free to recommend other good learning resources.)
 
-<i>n.b. These are mostly free and quick online tutorials, intended for making small projects.  Full-length college courses and physical books will serve better for in-depth studies.</i>
+<i>n.b. These are mostly free and quick online introducotry-level tutorials, full-length college courses and physical books will serve better for in-depth studies.</i>
 
 ## Frontend
 
