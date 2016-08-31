@@ -20,10 +20,13 @@ Collection of selected links containg beginner-friendly tutorials for hackathon 
 - [XML by W3schools](http://www.w3schools.com/xml/xml_whatis.asp) 
 
 ### JS libaries 
-- Learn node.js on [Nodeschool](http://nodeschool.io/index.html)
-- [Angular.js] (https://www.girldevelopit.com/materials/intro-to-angular)
-- [Introduction to JSON](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/) (a blogpost) 
-- [jQuary by KhanAcademy] (https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
+- Learn node.js(http://nodeschool.io/index.html) (Nodeschool)
+- [Angular.js] (https://www.girldevelopit.com/materials/intro-to-angular) (Girls Develope It)
+- [Introduction to JSON](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/) (blogpost) 
+- [jQuary] (https://www.khanacademy.org/computing/computer-programming/html-js-jquery) (Khan Academy)
+- p5.js
+- Processing.js 
+- D3.js () for data visualization
 
 ### APIs
 - [Learn APIs](https://www.codecademy.com/apis) on Codeacademy
@@ -49,7 +52,7 @@ nothing yet
 - [Learn Git Branching](http://learngitbranching.js.org/)
 - [git-the simple guide](https://rogerdudler.github.io/git-guide/)
 - [trygit](https://try.github.io/levels/1/challenges/1) by GitHub
-- [Git setup for beginners (a video)](https://www.youtube.com/watch?v=tRTckrrCME4)
+- [Git setup for beginners (video)](https://www.youtube.com/watch?v=tRTckrrCME4)
 
 ## Other lists
 - [Hackahon resources](https://github.com/Ladies-Storm-Hackathons/Resources)from Ladies Storm Hackathons
