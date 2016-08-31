@@ -23,6 +23,7 @@ Collection of selected links containg beginner-friendly tutorials for hackathon 
 - [Learn node.js (Nodeschool)](http://nodeschool.io/index.html)
 - [Angular.js (Girls Develope It)] (https://www.girldevelopit.com/materials/intro-to-angular) 
 - [Introduction to JSON](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/) (blogpost) 
+  - [JSON for Python] (https://docs.python.org/2/library/json.html)
 - [jQuary (Khan Academy)] (https://www.khanacademy.org/computing/computer-programming/html-js-jquery) 
 - p5.js
 - Processing.js 
