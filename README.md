@@ -20,13 +20,13 @@ Collection of selected links containg beginner-friendly tutorials for hackathon 
 - [XML by W3schools](http://www.w3schools.com/xml/xml_whatis.asp) 
 
 ### JS libaries 
-- Learn node.js(http://nodeschool.io/index.html) (Nodeschool)
-- [Angular.js] (https://www.girldevelopit.com/materials/intro-to-angular) (Girls Develope It)
+- [Learn node.js (Nodeschool)](http://nodeschool.io/index.html)
+- [Angular.js (Girls Develope It)] (https://www.girldevelopit.com/materials/intro-to-angular) 
 - [Introduction to JSON](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/) (blogpost) 
-- [jQuary] (https://www.khanacademy.org/computing/computer-programming/html-js-jquery) (Khan Academy)
+- [jQuary (Khan Academy)] (https://www.khanacademy.org/computing/computer-programming/html-js-jquery) 
 - p5.js
 - Processing.js 
-- D3.js () for data visualization
+- D3.js for data visualization
 
 ### APIs
 - [Learn APIs](https://www.codecademy.com/apis) on Codeacademy
