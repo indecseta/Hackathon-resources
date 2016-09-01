@@ -11,13 +11,14 @@ Collection of selected links containg beginner-friendly tutorials for hackathon 
 - [Beginner-friendly projects](https://dash.generalassemb.ly) from General Assembly Dash
 - [Intro to HTML and CSS (Udacity)](https://www.udacity.com/course/viewer#!/c-ud304/l-2810388540/m-2872198546) 
 - [JavaScript Basics (Udacity)](https://www.udacity.com/course/javascript-basics--ud804)   
-  Learn JavaScript syntax and coding conventions that web developers use to create interactive and dynamic websites while you create an online résumé for your portfolio
-* [Web Development (Udacity)](https://www.udacity.com/course/viewer#!/c-cs253)  
+  Learn JavaScript syntax and coding conventions that web developers use to create interactive and dynamic websites while you create an online résumé for your portfolio.
+- [Eloqent Javascript](http://eloquentjavascript.net/) (hihgly recommended)
+- [Web Development (Udacity)](https://www.udacity.com/course/viewer#!/c-cs253)  
   Learn how to convert digital design mockups into static web pages and how to build a responsive portfolio site to showcase your work.
 - [Practice CSS selectors](http://flukeout.github.io/) with a little web game
 - [Advanced HTML/CSS lessons](http://learn.shayhowe.com/advanced-html-css)
 - [Short Frontend lessons](https://www.girldevelopit.com/materials) from Girls Develope It
-- [XML by W3schools](http://www.w3schools.com/xml/xml_whatis.asp) 
+
 
 ### JS libaries 
 - [Learn node.js (Nodeschool)](http://nodeschool.io/index.html)
