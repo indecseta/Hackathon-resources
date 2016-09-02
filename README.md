@@ -23,7 +23,7 @@ Collection of selected links containg beginner-friendly tutorials for hackathon 
   Learn how to convert digital design mockups into static web pages and how to build a responsive portfolio site to showcase your work.
 
 
-#### JS libaries 
+#### JS framworks
 - [Learn node.js (Nodeschool)](http://nodeschool.io/index.html)
 - [Angular.js (Girls Develope It)] (https://www.girldevelopit.com/materials/intro-to-angular) 
 - [Introduction to JSON](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/) (blogpost) 
