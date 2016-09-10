@@ -19,6 +19,7 @@ Collection of selected links containg beginner-friendly tutorials for hackathon 
 - [JavaScript Basics (Udacity)](https://www.udacity.com/course/javascript-basics--ud804)   
   Learn JavaScript syntax and coding conventions that web developers use to create interactive and dynamic websites while you create an online résumé for your portfolio.
 - [Eloqent Javascript](http://eloquentjavascript.net/) (highly recommend)
+- [JavaScriptbook](http://javascriptbook.com/code/)
 - [Web Development (Udacity)](https://www.udacity.com/course/viewer#!/c-cs253)  
   Learn how to convert digital design mockups into static web pages and how to build a responsive portfolio site to showcase your work.
 
