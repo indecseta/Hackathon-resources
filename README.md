@@ -53,6 +53,7 @@ nothing yet
 - [APP Inventor 2](http://appinventor.mit.edu/explore/get-started.html) from MIT
 - [Android Studio starter](https://www.raywenderlich.com/120177/beginning-android-development-tutorial-installing-android-studio)
 - [Cordova APP Development platform](https://cordova.apache.org/)
+- [Swift guide by Apple](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language)
 
 
 ## Version Control (Git)
