@@ -42,7 +42,7 @@ Collection of selected links containg beginner-friendly tutorials for hackathon 
 nothing yet
 
 
-## Backend
+## Backend and APPs
 - A [list of backend dev resources](https://github.com/IlliniHackers/start-here/wiki/Backend-Development) from IlliniHackers.
 - [Free Code Camp](https://www.freecodecamp.com/map)
 - [Mobile App hackathon quick guide](https://sendgrid.com/blog/mobile-app-hackathon-quickstart-guide/)
