@@ -36,7 +36,7 @@ Collection of selected links containg beginner-friendly tutorials for hackathon 
 - D3.js for data visualization
 
 #### APIs
-- [Learn APIs](https://www.codecademy.com/apis) on Codeacademy
+- [Learn about APIs](https://www.codecademy.com/apis) on Codecademy
 
 ### Python, PHP, Ruby on Rails
 nothing yet
